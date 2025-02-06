@@ -6,3 +6,5 @@ Use display properties to control how elements stack and/or flow around one anot
 To-dos For This Week
 Follow along in-class lecture, save the code for future reference;
 Complete this week's lab exercise
+emmet cheat-sheet : 
+https://docs.emmet.io/cheat-sheet/
