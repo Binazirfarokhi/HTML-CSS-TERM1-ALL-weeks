@@ -1,0 +1,11 @@
+Display:block
+This is the default display property for several elements including div, header, h1, and li. Block elements expand horizontally to fill their container, and stack vertically on top of one another. They respond to width and height and box model properties in a predictable way.
+
+Display:inline
+This is the default display property for elements such as a (anchor) and span. Inline elements behave similarly to text, lining up horizontally with one another and wrapping to a new line. They do not respond to the width and height properties, and box model properties cannot be used to change their vertical spacing from one another.
+
+Display:inline-block
+This is the default display property for elements such as button. Inline-block elements behave like text (lining up horizontally and wrapping) but respond to width and height and respond to box model properties as a block element. This display property combines the properties inline and block, as implied by the name.
+
+Display:none
+This display property causes the element to disappear.
