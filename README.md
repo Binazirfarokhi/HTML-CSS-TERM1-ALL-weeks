@@ -9,3 +9,8 @@ Attend the lab to go over the accessibility topics and explain the tasks for you
 Optional: watch the video JavaScript DOM Manipulation to learn how to use JavaScript to add additional functionality to a page: in this case, a drop down navigation menu;
 Review final project brief;
 Start working on your final project if you haven't already.
+
+
+links : 
+https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=57075641
+https://www.loom.com/share/5db16531872445a38ade1d3f16221c36
