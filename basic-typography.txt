@@ -1,0 +1,22 @@
+Font Family
+
+For paragraph text, use a font that is easy to read; serif and sans-serif fonts are often a good choice. Display and handwriting fonts are usually better for heagings. Try to use no more than two or three font families on a page.
+
+It is unlikely that the default browser font family will be the best choice for your design; avoid using it.
+
+
+Line Length
+
+Estimates for the ideal line length vary; I recommend between 50 and 75 characters. Line length can be adjusted by changing the font size, paragraph width, etc.
+
+Text that is left-aligned is easier to read. Centered text should only be used for short sections of text or headings.
+
+
+Typographic Hierarchy
+
+Use larger text to call attention to headings and indicate the order of importance and structure of the document.
+
+
+Line Height
+
+Successive lines of text should not be too close together or far apart; experiment with different line height values to find the value that is easiest to read for a given font. A good starting place is often line-height: 1.5.
